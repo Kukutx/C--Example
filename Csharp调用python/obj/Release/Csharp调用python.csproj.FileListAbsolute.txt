@@ -1,0 +1,8 @@
+C:\Users\liuzh\Downloads\Csharp调用python\bin\Release\Csharp调用python.exe.config
+C:\Users\liuzh\Downloads\Csharp调用python\bin\Release\Csharp调用python.exe
+C:\Users\liuzh\Downloads\Csharp调用python\bin\Release\Csharp调用python.pdb
+C:\Users\liuzh\Downloads\Csharp调用python\obj\Release\Csharp调用python.csproj.AssemblyReference.cache
+C:\Users\liuzh\Downloads\Csharp调用python\obj\Release\Csharp调用python.csproj.SuggestedBindingRedirects.cache
+C:\Users\liuzh\Downloads\Csharp调用python\obj\Release\Csharp调用python.csproj.CoreCompileInputs.cache
+C:\Users\liuzh\Downloads\Csharp调用python\obj\Release\Csharp调用python.exe
+C:\Users\liuzh\Downloads\Csharp调用python\obj\Release\Csharp调用python.pdb

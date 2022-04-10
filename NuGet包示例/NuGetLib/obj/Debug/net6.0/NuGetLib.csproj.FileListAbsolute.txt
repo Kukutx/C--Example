@@ -1,0 +1,12 @@
+C:\Users\liuzh\Downloads\NuGetLib\bin\Debug\net6.0\NuGetLib.deps.json
+C:\Users\liuzh\Downloads\NuGetLib\bin\Debug\net6.0\NuGetLib.dll
+C:\Users\liuzh\Downloads\NuGetLib\bin\Debug\net6.0\ref\NuGetLib.dll
+C:\Users\liuzh\Downloads\NuGetLib\bin\Debug\net6.0\NuGetLib.pdb
+C:\Users\liuzh\Downloads\NuGetLib\obj\Debug\net6.0\NuGetLib.csproj.AssemblyReference.cache
+C:\Users\liuzh\Downloads\NuGetLib\obj\Debug\net6.0\NuGetLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\liuzh\Downloads\NuGetLib\obj\Debug\net6.0\NuGetLib.AssemblyInfoInputs.cache
+C:\Users\liuzh\Downloads\NuGetLib\obj\Debug\net6.0\NuGetLib.AssemblyInfo.cs
+C:\Users\liuzh\Downloads\NuGetLib\obj\Debug\net6.0\NuGetLib.csproj.CoreCompileInputs.cache
+C:\Users\liuzh\Downloads\NuGetLib\obj\Debug\net6.0\NuGetLib.dll
+C:\Users\liuzh\Downloads\NuGetLib\obj\Debug\net6.0\ref\NuGetLib.dll
+C:\Users\liuzh\Downloads\NuGetLib\obj\Debug\net6.0\NuGetLib.pdb

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "c2cb7c9b-dadd-45a0-bdf8-e4fa6f06ab46": {
+      "ProjectGuid": "c2cb7c9b-dadd-45a0-bdf8-e4fa6f06ab46",
+      "DisplayName": "WpfCallQtDialogDll",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

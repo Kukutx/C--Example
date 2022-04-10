@@ -1,0 +1,106 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "MyPackage/1.0.0": {
+        "type": "package",
+        "compile": {
+          "lib/net6.0/NuGetLib.dll": {}
+        },
+        "runtime": {
+          "lib/net6.0/NuGetLib.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MyPackage/1.0.0": {
+      "sha512": "g2MwdQlvSyz8lLYu5wxDugnRp+8eCHmD7GXDtVhzjfrkDyClEf+fAqQpDyKjYNfYbRBBHL9+LstwI8iC+U8CwA==",
+      "type": "package",
+      "path": "mypackage/1.0.0",
+      "files": [
+        ".nupkg.metadata",
+        "lib/net6.0/NuGetLib.deps.json",
+        "lib/net6.0/NuGetLib.dll",
+        "lib/net6.0/NuGetLib.pdb",
+        "mypackage.1.0.0.nupkg.sha512",
+        "mypackage.nuspec",
+        "readme.txt"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "MyPackage >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\liuzh\\.nuget\\packages\\": {},
+    "B:\\Developers\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\liuzh\\Downloads\\NuGet包示例\\NuGetExample\\NuGetExample.csproj",
+      "projectName": "NuGetExample",
+      "projectPath": "C:\\Users\\liuzh\\Downloads\\NuGet包示例\\NuGetExample\\NuGetExample.csproj",
+      "packagesPath": "C:\\Users\\liuzh\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\liuzh\\Downloads\\NuGet包示例\\NuGetExample\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "B:\\Developers\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\liuzh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Users\\liuzh\\Downloads\\NuGet包示例\\NuGetExample": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "dependencies": {
+          "MyPackage": {
+            "target": "Package",
+            "version": "[1.0.0, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.102\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

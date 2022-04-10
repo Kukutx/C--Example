@@ -1,0 +1,17 @@
+C:\Users\liuzh\Downloads\NuGet包示例\NuGetExample\bin\Debug\net6.0\NuGetExample.exe
+C:\Users\liuzh\Downloads\NuGet包示例\NuGetExample\bin\Debug\net6.0\NuGetExample.deps.json
+C:\Users\liuzh\Downloads\NuGet包示例\NuGetExample\bin\Debug\net6.0\NuGetExample.runtimeconfig.json
+C:\Users\liuzh\Downloads\NuGet包示例\NuGetExample\bin\Debug\net6.0\NuGetExample.dll
+C:\Users\liuzh\Downloads\NuGet包示例\NuGetExample\bin\Debug\net6.0\ref\NuGetExample.dll
+C:\Users\liuzh\Downloads\NuGet包示例\NuGetExample\bin\Debug\net6.0\NuGetExample.pdb
+C:\Users\liuzh\Downloads\NuGet包示例\NuGetExample\bin\Debug\net6.0\NuGetLib.dll
+C:\Users\liuzh\Downloads\NuGet包示例\NuGetExample\obj\Debug\net6.0\NuGetExample.csproj.AssemblyReference.cache
+C:\Users\liuzh\Downloads\NuGet包示例\NuGetExample\obj\Debug\net6.0\NuGetExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\liuzh\Downloads\NuGet包示例\NuGetExample\obj\Debug\net6.0\NuGetExample.AssemblyInfoInputs.cache
+C:\Users\liuzh\Downloads\NuGet包示例\NuGetExample\obj\Debug\net6.0\NuGetExample.AssemblyInfo.cs
+C:\Users\liuzh\Downloads\NuGet包示例\NuGetExample\obj\Debug\net6.0\NuGetExample.csproj.CoreCompileInputs.cache
+C:\Users\liuzh\Downloads\NuGet包示例\NuGetExample\obj\Debug\net6.0\NuGetExample.csproj.CopyComplete
+C:\Users\liuzh\Downloads\NuGet包示例\NuGetExample\obj\Debug\net6.0\NuGetExample.dll
+C:\Users\liuzh\Downloads\NuGet包示例\NuGetExample\obj\Debug\net6.0\ref\NuGetExample.dll
+C:\Users\liuzh\Downloads\NuGet包示例\NuGetExample\obj\Debug\net6.0\NuGetExample.pdb
+C:\Users\liuzh\Downloads\NuGet包示例\NuGetExample\obj\Debug\net6.0\NuGetExample.genruntimeconfig.cache

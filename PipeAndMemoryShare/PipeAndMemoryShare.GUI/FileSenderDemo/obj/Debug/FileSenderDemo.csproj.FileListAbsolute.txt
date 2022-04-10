@@ -1,0 +1,12 @@
+C:\Users\liuzh\Downloads\PipeAndMemoryShare\PipeAndMemoryShare\PipeAndMemoryShare.GUI\FileSenderDemo\bin\Debug\FileSenderDemo.exe
+C:\Users\liuzh\Downloads\PipeAndMemoryShare\PipeAndMemoryShare\PipeAndMemoryShare.GUI\FileSenderDemo\bin\Debug\FileSenderDemo.pdb
+C:\Users\liuzh\Downloads\PipeAndMemoryShare\PipeAndMemoryShare\PipeAndMemoryShare.GUI\FileSenderDemo\bin\Debug\Common.dll
+C:\Users\liuzh\Downloads\PipeAndMemoryShare\PipeAndMemoryShare\PipeAndMemoryShare.GUI\FileSenderDemo\bin\Debug\Common.pdb
+C:\Users\liuzh\Downloads\PipeAndMemoryShare\PipeAndMemoryShare\PipeAndMemoryShare.GUI\FileSenderDemo\obj\Debug\FileSenderDemo.csproj.AssemblyReference.cache
+C:\Users\liuzh\Downloads\PipeAndMemoryShare\PipeAndMemoryShare\PipeAndMemoryShare.GUI\FileSenderDemo\obj\Debug\FileSenderDemo.FormSender.resources
+C:\Users\liuzh\Downloads\PipeAndMemoryShare\PipeAndMemoryShare\PipeAndMemoryShare.GUI\FileSenderDemo\obj\Debug\FileSenderDemo.Properties.Resources.resources
+C:\Users\liuzh\Downloads\PipeAndMemoryShare\PipeAndMemoryShare\PipeAndMemoryShare.GUI\FileSenderDemo\obj\Debug\FileSenderDemo.csproj.GenerateResource.cache
+C:\Users\liuzh\Downloads\PipeAndMemoryShare\PipeAndMemoryShare\PipeAndMemoryShare.GUI\FileSenderDemo\obj\Debug\FileSenderDemo.csproj.CoreCompileInputs.cache
+C:\Users\liuzh\Downloads\PipeAndMemoryShare\PipeAndMemoryShare\PipeAndMemoryShare.GUI\FileSenderDemo\obj\Debug\FileSenderDemo.csproj.CopyComplete
+C:\Users\liuzh\Downloads\PipeAndMemoryShare\PipeAndMemoryShare\PipeAndMemoryShare.GUI\FileSenderDemo\obj\Debug\FileSenderDemo.exe
+C:\Users\liuzh\Downloads\PipeAndMemoryShare\PipeAndMemoryShare\PipeAndMemoryShare.GUI\FileSenderDemo\obj\Debug\FileSenderDemo.pdb

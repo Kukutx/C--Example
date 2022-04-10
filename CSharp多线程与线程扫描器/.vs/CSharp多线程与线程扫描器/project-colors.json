@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "db13509a-df14-4a6e-b704-f5ad7eeb5281": {
+      "ProjectGuid": "db13509a-df14-4a6e-b704-f5ad7eeb5281",
+      "DisplayName": "CSharp多线程与线程扫描器",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

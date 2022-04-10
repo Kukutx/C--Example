@@ -1,0 +1,6 @@
+C:\Users\liuzh\Downloads\PipeAndMemoryShare\PipeAndMemoryShare\PipeAndMemoryShare\Common\bin\Debug\Common.dll
+C:\Users\liuzh\Downloads\PipeAndMemoryShare\PipeAndMemoryShare\PipeAndMemoryShare\Common\bin\Debug\Common.pdb
+C:\Users\liuzh\Downloads\PipeAndMemoryShare\PipeAndMemoryShare\PipeAndMemoryShare\Common\obj\Debug\Common.csproj.AssemblyReference.cache
+C:\Users\liuzh\Downloads\PipeAndMemoryShare\PipeAndMemoryShare\PipeAndMemoryShare\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+C:\Users\liuzh\Downloads\PipeAndMemoryShare\PipeAndMemoryShare\PipeAndMemoryShare\Common\obj\Debug\Common.dll
+C:\Users\liuzh\Downloads\PipeAndMemoryShare\PipeAndMemoryShare\PipeAndMemoryShare\Common\obj\Debug\Common.pdb

@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "f4d19cfc-35a1-4b34-bfb0-4813bb02682a": {
+      "ProjectGuid": "f4d19cfc-35a1-4b34-bfb0-4813bb02682a",
+      "DisplayName": "NuGetLibTest",
+      "ColorIndex": 0
+    },
+    "8fc48912-5859-415e-af05-442aa9c8e814": {
+      "ProjectGuid": "8fc48912-5859-415e-af05-442aa9c8e814",
+      "DisplayName": "NuGetLib",
+      "ColorIndex": 1
+    },
+    "c32c3eed-be55-42a1-9294-63c4ded4b1d6": {
+      "ProjectGuid": "c32c3eed-be55-42a1-9294-63c4ded4b1d6",
+      "DisplayName": "NuGetExample",
+      "ColorIndex": 2
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "杂项文件",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 3
+}

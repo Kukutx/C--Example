@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "bdf40a17-0a9c-4b95-ac38-bea5de29ee9b": {
+      "ProjectGuid": "bdf40a17-0a9c-4b95-ac38-bea5de29ee9b",
+      "DisplayName": "CSharp实现ftp上传和下载",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

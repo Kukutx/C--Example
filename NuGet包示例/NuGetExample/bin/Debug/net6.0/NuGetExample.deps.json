@@ -1,0 +1,41 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "NuGetExample/1.0.0": {
+        "dependencies": {
+          "MyPackage": "1.0.0"
+        },
+        "runtime": {
+          "NuGetExample.dll": {}
+        }
+      },
+      "MyPackage/1.0.0": {
+        "runtime": {
+          "lib/net6.0/NuGetLib.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "NuGetExample/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MyPackage/1.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-g2MwdQlvSyz8lLYu5wxDugnRp+8eCHmD7GXDtVhzjfrkDyClEf+fAqQpDyKjYNfYbRBBHL9+LstwI8iC+U8CwA==",
+      "path": "mypackage/1.0.0",
+      "hashPath": "mypackage.1.0.0.nupkg.sha512"
+    }
+  }
+}

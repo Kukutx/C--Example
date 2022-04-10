@@ -1,0 +1,1 @@
+每当新建一个链接SQLite工程，推荐在Nuget下 System.SQLite.Data 配置

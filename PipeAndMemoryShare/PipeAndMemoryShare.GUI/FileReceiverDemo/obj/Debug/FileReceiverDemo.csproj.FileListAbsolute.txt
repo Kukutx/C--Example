@@ -1,0 +1,12 @@
+C:\Users\liuzh\Downloads\PipeAndMemoryShare\PipeAndMemoryShare\PipeAndMemoryShare.GUI\FileReceiverDemo\bin\Debug\FileReceiverDemo.exe
+C:\Users\liuzh\Downloads\PipeAndMemoryShare\PipeAndMemoryShare\PipeAndMemoryShare.GUI\FileReceiverDemo\bin\Debug\FileReceiverDemo.pdb
+C:\Users\liuzh\Downloads\PipeAndMemoryShare\PipeAndMemoryShare\PipeAndMemoryShare.GUI\FileReceiverDemo\bin\Debug\Common.dll
+C:\Users\liuzh\Downloads\PipeAndMemoryShare\PipeAndMemoryShare\PipeAndMemoryShare.GUI\FileReceiverDemo\bin\Debug\Common.pdb
+C:\Users\liuzh\Downloads\PipeAndMemoryShare\PipeAndMemoryShare\PipeAndMemoryShare.GUI\FileReceiverDemo\obj\Debug\FileReceiverDemo.csproj.AssemblyReference.cache
+C:\Users\liuzh\Downloads\PipeAndMemoryShare\PipeAndMemoryShare\PipeAndMemoryShare.GUI\FileReceiverDemo\obj\Debug\FileReceiverDemo.FormReceiver.resources
+C:\Users\liuzh\Downloads\PipeAndMemoryShare\PipeAndMemoryShare\PipeAndMemoryShare.GUI\FileReceiverDemo\obj\Debug\FileReceiverDemo.Properties.Resources.resources
+C:\Users\liuzh\Downloads\PipeAndMemoryShare\PipeAndMemoryShare\PipeAndMemoryShare.GUI\FileReceiverDemo\obj\Debug\FileReceiverDemo.csproj.GenerateResource.cache
+C:\Users\liuzh\Downloads\PipeAndMemoryShare\PipeAndMemoryShare\PipeAndMemoryShare.GUI\FileReceiverDemo\obj\Debug\FileReceiverDemo.csproj.CoreCompileInputs.cache
+C:\Users\liuzh\Downloads\PipeAndMemoryShare\PipeAndMemoryShare\PipeAndMemoryShare.GUI\FileReceiverDemo\obj\Debug\FileReceiverDemo.csproj.CopyComplete
+C:\Users\liuzh\Downloads\PipeAndMemoryShare\PipeAndMemoryShare\PipeAndMemoryShare.GUI\FileReceiverDemo\obj\Debug\FileReceiverDemo.exe
+C:\Users\liuzh\Downloads\PipeAndMemoryShare\PipeAndMemoryShare\PipeAndMemoryShare.GUI\FileReceiverDemo\obj\Debug\FileReceiverDemo.pdb

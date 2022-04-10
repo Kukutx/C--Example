@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "WpfCallQtDialogDll/1.0.0": {
+        "runtime": {
+          "WpfCallQtDialogDll.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WpfCallQtDialogDll/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

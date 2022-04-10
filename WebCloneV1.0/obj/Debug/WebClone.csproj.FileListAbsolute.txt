@@ -1,0 +1,9 @@
+E:\Program(Download)\WebCloneV1.0\bin\Debug\WebClone.exe
+E:\Program(Download)\WebCloneV1.0\bin\Debug\WebClone.pdb
+E:\Program(Download)\WebCloneV1.0\obj\Debug\WebClone.csproj.AssemblyReference.cache
+E:\Program(Download)\WebCloneV1.0\obj\Debug\WebClone.MainForm.resources
+E:\Program(Download)\WebCloneV1.0\obj\Debug\WebClone.Properties.Resources.resources
+E:\Program(Download)\WebCloneV1.0\obj\Debug\WebClone.csproj.GenerateResource.cache
+E:\Program(Download)\WebCloneV1.0\obj\Debug\WebClone.csproj.CoreCompileInputs.cache
+E:\Program(Download)\WebCloneV1.0\obj\Debug\WebClone.exe
+E:\Program(Download)\WebCloneV1.0\obj\Debug\WebClone.pdb
